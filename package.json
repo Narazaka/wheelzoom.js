@@ -1,6 +1,6 @@
 {
   "name": "wheelzoom.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The mouse wheel zoom (y axis).",
   "main": "wheelzoom.js",
   "scripts": {
@@ -26,5 +26,8 @@
   "devDependencies": {
     "coffee-script": "^1.10.0",
     "uglify-js": "^2.4.24"
+  },
+  "dependencies": {
+    "wheelevent.js": "^1.0.0"
   }
 }
