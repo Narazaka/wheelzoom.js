@@ -1,0 +1,17 @@
+{
+  "name": "wheelzoom.js",
+  "main": "wheelzoom.js",
+  "version": "1.0.0",
+  "authors": [ "Narazaka <info@narazaka.net>" ],
+  "description": "The mouse wheel zoom (y axis).",
+  "keywords": [ "mouse", "wheel", "event", "scroll", "zoom" ],
+  "license": "MIT",
+  "homepage": "https://github.com/Narazaka/wheelzoom.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
